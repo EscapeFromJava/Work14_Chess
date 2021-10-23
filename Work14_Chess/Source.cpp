@@ -70,7 +70,8 @@ int main()
         }
     }
     printBoard(board);
-    checkForCheck(x, y, sym1, sym2);//проверка на шах 
+    checkForCheck(x, y, sym1, sym2);//проверка на шах
+
     return 0;
 }
 
